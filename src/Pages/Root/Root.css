@@ -1,0 +1,12 @@
+.menu a.active{
+background: linear-gradient(to right,#632EE3,#9F62F2);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+border-bottom: 3px solid;
+padding-bottom: 0;
+font-size: 16px;
+border-image: linear-gradient(to right,#632EE3,#9F62F2) 1;
+
+}
+
+ 

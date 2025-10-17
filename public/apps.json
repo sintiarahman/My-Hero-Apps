@@ -1,0 +1,506 @@
+[
+  {
+    "image": "https://i.ibb.co.com/wN3jTkfW/unnamed.webp",
+    "title": "TaskFlow: Task Manager",
+    "companyName": "TechVision",
+    "id": 1,
+    "description": "TaskFlow is a powerful task management suite designed to bring clarity and control to your busy schedule, fostering an organized, stress-free life. It features smart to-do lists that learn your priorities and deep calendar integration for effortless scheduling, ensuring you are always on top of your commitments.\n\nThe app offers customizable, location-based reminders, ensuring you never miss a beat, whether you're at the office or the grocery store. For teams, TaskFlow provides robust features like shared dashboards and task assignments, making collaboration seamless, transparent, and highly efficient for any project size.\n\nBy helping you prioritize effectively, TaskFlow maximizes your productivity across both personal goals and professional projects. It acts as your reliable digital assistant, guaranteeing that no important commitment ever slips through the cracks and empowering you to achieve more with less stress.",
+    "size": 45,
+    "reviews": 120,
+    "ratingAvg": 4.3,
+    "downloads": 5000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 35 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "image": "https://pbs.twimg.com/profile_images/1255890031178330118/imnpmf7D_400x400.png",
+    "title": "FocusMate: Focus Timer",
+    "companyName": "ProTools",
+    "id": 2,
+    "description": "FocusMate is your perfect companion for eliminating distractions and boosting sustained productivity. It's built around proven methods like the Pomodoro technique to structure your work and maintain high levels of concentration during critical tasks.\n\nThe app provides structured focus sessions, detailed progress reports, and powerful analytics to track your concentrated effort and identify your peak productivity times. It utilizes smart notifications and a robust distraction blocker to maintain your focus bubble, making it ideal for studying, coding, or any creative project.\n\nWith FocusMate, you can build lasting concentration habits, transforming scattered, busy work into high-impact, intentional output. It is the ultimate tool for anyone looking to master their focus and achieve deep work consistently.",
+    "size": 50,
+    "reviews": 180,
+    "ratingAvg": 4.6,
+    "downloads": 8700,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 55 },
+      { "name": "5 star", "count": 68 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Ccg0zZk_y271OI7ftyRY6acNXihWsJOTjDRGQCj3Ffwu7usdK6ypWim9_qj7iKHNXT0",
+    "title": "NoteNest: Digital Notebook",
+    "companyName": "Paperless Inc",
+    "id": 3,
+    "description": "NoteNest makes capturing and organizing your thoughts utterly effortless, serving as your single source of truth for every idea. It supports rich media including text notes, voice memos, to-do lists, and image attachments, all stored securely in one centralized and easily accessible place.\n\nWith robust tagging and powerful search features, you can find any piece of information in seconds, ensuring that nothing is ever lost. The app features a clean, intuitive design for a smooth, distraction-free user experience, while complete offline access makes it perfect for capturing inspiration on the go.\n\nThanks to its seamless cloud synchronization across all your devices, NoteNest is the ultimate digital notebook for students, professionals, and creative minds seeking clarity, organization, and focus in their daily lives.",
+    "size": 35,
+    "reviews": 95,
+    "ratingAvg": 4.1,
+    "downloads": 4200,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 20 },
+      { "name": "5 star", "count": 27 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9kTSfB42/unnamed.png",
+    "title": "TimeTrackr: Work Tracker",
+    "companyName": "SmartTools",
+    "id": 4,
+    "description": "TimeTrackr is expertly designed for professionals who prioritize time as their most valuable asset. It provides intelligent, low-effort time tracking and powerful project management features that integrate seamlessly into your workflow.\n\nGain detailed analytics and productivity insights, visualizing exactly how you spend every minute of your day across different clients and tasks. This functionality is essential for monitoring utilization and ensuring fair, accurate billing, making it indispensable for freelancers and consultants.\n\nWhether you're managing multiple complex projects or simply seeking a better work-life balance, TimeTrackr brings full transparency to your workflow and puts you firmly in control of your entire schedule, helping you make every second count.",
+    "size": 55,
+    "reviews": 130,
+    "ratingAvg": 4.4,
+    "downloads": 6000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 28 },
+      { "name": "4 star", "count": 30 },
+      { "name": "5 star", "count": 44 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fYg4mtZJ/unnamed-1.png",
+    "title": "QuickCalc: Advanced Calculator",
+    "companyName": "CalcPro",
+    "id": 5,
+    "description": "QuickCalc is not just a standard calculator; it's your comprehensive, everyday math companion that combines elegant simplicity with advanced functional capabilities. It is designed to be the only calculator you will ever need.\n\nThe app includes a wide range of scientific functions, a persistent equation history for easy reference, and powerful graph plotting tools for complex visualization. Its modern, intuitive design makes solving any problem efficient, eliminating the confusion of older, clunky interfaces.\n\nFrom simple daily arithmetic to complex academic and professional equations, QuickCalc is built to cover all your mathematical needs seamlessly and accurately, making it an essential tool for students and professionals alike.",
+    "size": 25,
+    "reviews": 60,
+    "ratingAvg": 4.0,
+    "downloads": 3000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 12 },
+      { "name": "4 star", "count": 15 },
+      { "name": "5 star", "count": 18 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nsn4d29K/unnamed.png",
+    "title": "SoundSphere: Music Player",
+    "companyName": "BeatHub",
+    "id": 6,
+    "description": "SoundSphere is a next-generation music streaming app that puts millions of songs at your fingertips, focusing on lossless, high-quality audio for a superior listening experience. Its powerful discovery engine provides personalized recommendations and expertly curated playlists.\n\nKey features are tailored to the modern listener, including essential offline downloads for enjoying music without a connection and a vibrant social community to share your favorite tracks and artists with friends, sparking new musical conversations.\n\nMore than just a player, SoundSphere is designed to enhance every moment of your day. It makes your journey through the world of sound deeply personal, musical, and engaging, ensuring you always have the perfect soundtrack for your life.",
+    "size": 80,
+    "reviews": 340,
+    "ratingAvg": 4.8,
+    "downloads": 22000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 155 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WNfnvt68/unnamed.webp",
+    "title": "BeatBoxx: Beat Maker",
+    "companyName": "Rhythm Ltd",
+    "id": 7,
+    "description": "BeatBoxx is the app that lets you instantly unleash your inner creativity and become a masterful beat-maker. It empowers you to start crafting professional-sounding tracks in mere seconds, regardless of your experience level.\n\nIt comes fully equipped with intuitive, built-in drum pads, a library of studio-quality sound effects, and fully customizable loops for creating complex compositions. Users can easily craft, record, and share their unique tracks with a global community of artists.\n\nWhether you are a complete music-making beginner or an aspiring DJ looking to sketch out ideas, BeatBoxx makes the entire process of music creation fun, easy, and highly accessible right from your pocket.",
+    "size": 95,
+    "reviews": 280,
+    "ratingAvg": 4.5,
+    "downloads": 15000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 125 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9kLpZfqF/unnamed-1.webp",
+    "title": "Streamify: Movie Streaming",
+    "companyName": "MediaFlow",
+    "id": 8,
+    "description": "Streamify is your all-inclusive, ultimate entertainment hub for watching movies, TV shows, and exclusive original content in one convenient place. Enjoy a premium viewing experience with seamless HD and 4K streaming on any device.\n\nThe platform provides highly personalized recommendations powered by a smart algorithm, helping you effortlessly discover your next binge-worthy show. Essential for commuters and travelers, Streamify supports offline downloads for viewing content on the go, without needing an internet connection.\n\nWith a vast, constantly growing collection of both global blockbusters and local favorites, Streamify ensures there is always something new and exciting to watch, catering to every mood and taste.",
+    "size": 110,
+    "reviews": 500,
+    "ratingAvg": 4.7,
+    "downloads": 30000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 130 },
+      { "name": "5 star", "count": 265 }
+    ]
+  },
+  {
+    "image": "https://uploads.turbologo.com/uploads/design/preview_image/68466022/preview_image20241130-1-1wp8ipi.png",
+    "title": "MelodyHub: Social Music",
+    "companyName": "TuneWorld",
+    "id": 9,
+    "description": "MelodyHub is the social music platform designed to listen, share, and connect with others through the power of songs, fostering a vibrant, community-driven experience. It's where music discovery becomes a shared adventure.\n\nUsers can effortlessly explore globally trending playlists, follow their favorite artists for real-time updates, and meticulously build their own personal music collections. The core social aspect allows you to see what your friends are listening to, share your musical tastes, and discover new artists through trusted recommendations.\n\nDesigned for both casual listeners and the most passionate music fans, MelodyHub transforms the solitary act of listening into a vibrant, shared experience, turning every song into a conversation.",
+    "size": 70,
+    "reviews": 190,
+    "ratingAvg": 4.2,
+    "downloads": 12000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 65 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/c9/49/82c94912-9376-ec98-6ad9-59fca377e266/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/1200x600wa.png",
+    "title": "TuneVibe: Music Player",
+    "companyName": "GrooveSoft",
+    "id": 10,
+    "description": "TuneVibe provides an immersive and rich listening experience with guaranteed crystal-clear sound quality and a massive, curated music library. From current chart-topping hits to obscure, hidden indie gems, TuneVibe delivers music that perfectly matches your current vibe and mood.\n\nIts smart features include intelligent playlists that learn and adapt to your tastes over time, seamless cross-device synchronization, and an essential offline mode for uninterrupted listening, no matter where you are.\n\nTuneVibe is the ideal app for music lovers constantly on the move, ensuring your personal soundtrack is always with you, perfectly in sync with your life and ready to elevate any moment.",
+    "size": 85,
+    "reviews": 250,
+    "ratingAvg": 4.6,
+    "downloads": 18000,
+    "ratings": [
+      { "name": "1 star", "count": 14 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 38 },
+      { "name": "4 star", "count": 76 },
+      { "name": "5 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://assets.ubuntu.com/v1/e635d1ef-snapcraft_green-red_hex.png",
+    "title": "SnapCraft: Photo Editor",
+    "companyName": "PixelWorks",
+    "id": 11,
+    "description": "SnapCraft makes powerful photo editing simple and accessible to everyone, helping you achieve professional-looking results without the steep learning curve. It's designed for speed and efficiency, transforming your photos in just a few taps.\n\nIt features a wide array of instant filters, an effective AI-powered background remover, and one-tap enhancements to instantly improve lighting and color. Your photos can be ready to share on social media or printed as cherished memories in mere seconds.\n\nSnapCraft is the go-to tool for quick, high-quality edits that make a real impact, ensuring your visual content always looks its absolute best with minimal time and effort.",
+    "size": 100,
+    "reviews": 400,
+    "ratingAvg": 4.5,
+    "downloads": 28000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 187 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7xsym241/unnamed.webp",
+    "title": "PicVerse: AI Photo Art",
+    "companyName": "CreativeLabs",
+    "id": 12,
+    "description": "PicVerse turns every photo into a unique piece of art using cutting-edge, advanced AI-driven effects and artistic filters. It invites you to discover a new creative dimension that goes far beyond simple editing.\n\nUsers can choose from a vast library of artistic styles inspired by famous painters, professionally retouch portraits with beautification tools, and enhance fine details with just a quick tap. Its sleek, modern design and intuitive tools simplify the artistic process for all skill levels.\n\nPicVerse is perfectly suited for both casual social media enthusiasts looking to stand out and demanding professionals working on high-quality design projects, offering versatility and power in one package.",
+    "size": 115,
+    "reviews": 370,
+    "ratingAvg": 4.4,
+    "downloads": 26000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 183 }
+    ]
+  },
+  {
+    "image": "https://editease.net/images/logo.svg",
+    "title": "EditEase: AI Photo Editor",
+    "companyName": "PhotoSoft",
+    "id": 13,
+    "description": "EditEase skillfully combines professional-grade photo editing tools with the efficiency of advanced AI technology, delivering pro-level features with incredible ease of use. It empowers everyone to create stunning images.\n\nYou can effortlessly adjust lighting and color with precision, cleanly remove backgrounds from complex images, apply artistic filters, and even instantly restore and repair old, damaged photographs with a single click.\n\nThe powerful AI handles complex and tedious tasks automatically, giving you instant, high-quality results without manual work. With EditEase, you achieve the perfect balance of advanced control and simple usability for every photo you edit.",
+    "size": 130,
+    "reviews": 500,
+    "ratingAvg": 4.7,
+    "downloads": 40000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 65 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 250 }
+    ]
+  },
+  {
+    "image": "https://pbcdn1.podbean.com/imglogo/image-logo/2337562/FrameLab_souncloud_1400x1400px84mie_300x300.jpg",
+    "title": "FrameLab: Frames & Collage",
+    "companyName": "VisionX",
+    "id": 14,
+    "description": "FrameLab acts as your indispensable creative partner for framing and displaying your treasured memories beautifully. It offers a wide range of stylish options to elevate your photos from simple images to works of art.\n\nChoose from a vast collection of pre-designed templates, use the intuitive collage maker to tell a compelling visual story, and create custom frame designs that perfectly suit your personal style. This powerful app lets you turn everyday snapshots into elegant, timeless keepsakes.\n\nFrameLab is designed to be the perfect tool for enhancing photos for both high-resolution physical printing and seamless, beautiful digital sharing on any social platform, making your memories last forever.",
+    "size": 95,
+    "reviews": 310,
+    "ratingAvg": 4.3,
+    "downloads": 17000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KcMB4kV4/Untitled.png",
+    "title": "ClipStudio: Video Editor",
+    "companyName": "MediaArt",
+    "id": 15,
+    "description": "ClipStudio is a professional-grade video editing application specifically designed to empower modern digital creators with an intuitive and powerful toolset. It brings advanced features to your fingertips without the complexity of traditional software.\n\nWith its fluid timeline, you can effortlessly cut, merge, add dynamic music tracks, and apply a wide array of cinematic visual effects to your raw footage. It provides all the essential, high-end tools required to bring your creative vision to life.\n\nWhether you’re crafting engaging short clips for social media or producing longer, narrative-driven videos, ClipStudio streamlines your entire creation workflow from initial concept to final export, making professional video accessible to all.",
+    "size": 140,
+    "reviews": 450,
+    "ratingAvg": 4.6,
+    "downloads": 35000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 32 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 213 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DP8KWWFY/unnamed.png",
+    "title": "FitJourney: Workout Tracker",
+    "companyName": "HealthHub",
+    "id": 16,
+    "description": "FitJourney is your dedicated personal fitness companion, meticulously tracking every aspect of your workouts, burned calories, and overall health progress with precision. It serves as your all-in-one hub for a healthier lifestyle.\n\nThe app provides access to fully customizable workout plans tailored to your specific goals—from weight loss to muscle gain—alongside robust progress tracking for all activities. It features seamless integration with a wide range of popular wearable devices to unify your health data in one place.\n\nBy offering continuous motivation and insightful analytics, FitJourney helps you stay committed, understand your body better, and consistently progress toward your fitness milestones every single day.",
+    "size": 70,
+    "reviews": 220,
+    "ratingAvg": 4.5,
+    "downloads": 15000,
+    "ratings": [
+      { "name": "1 star", "count": 14 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 65 },
+      { "name": "5 star", "count": 86 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HpVZm7NG/unnamed-1.png",
+    "title": "StepSync: Step Counter",
+    "companyName": "MoveTech",
+    "id": 17,
+    "description": "StepSync is an effective, fun tool designed to highly motivate you to walk more and maintain a healthy, active lifestyle every day. It makes hitting your fitness goals feel like a game rather than a chore.\n\nIt offers accurate, real-time step tracking, distance calculation, and friendly activity reminders to keep you moving throughout the day. You can easily sync StepSync with your preferred wearable devices to consolidate all your health and activity metrics automatically.\n\nThe app allows you to compete with friends and family in fun daily and weekly step challenges, adding a social element that makes StepSync a simple yet powerful way to keep yourself continuously active.",
+    "size": 40,
+    "reviews": 150,
+    "ratingAvg": 4.2,
+    "downloads": 9000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 50 }
+    ]
+  },
+  {
+    "image": "https://s3-alpha.figma.com/hub/file/2170583910599108073/cb85c19d-1c67-4c52-aeb0-a953a15faac4-cover.png",
+    "title": "MindEase: Meditation & Sleep",
+    "companyName": "CalmTech",
+    "id": 18,
+    "description": "MindEase is built to help you effectively manage daily stress and significantly improve your overall mental well-being through accessible, guided practices. It is your personal sanctuary in a busy world.\n\nIt offers a rich library of guided meditation sessions for all levels, structured breathing exercises to reduce anxiety, and a vast collection of deeply relaxing sounds for sleep and focus. The app is developed with a proven, science-backed approach to mindfulness, ensuring you receive quality support.\n\nMindEase serves as your indispensable pocket companion for achieving greater inner peace, clarity, and consistent mindfulness, helping you navigate life's challenges with a calmer perspective.",
+    "size": 85,
+    "reviews": 260,
+    "ratingAvg": 4.7,
+    "downloads": 12000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 28 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 137 }
+    ]
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/5bcb78a511f7840c7d3607b2/70bd68d8-3d16-4143-ab02-db62527d478d/YB-IconTitleColor.png",
+    "title": "YogaBloom: Home Yoga",
+    "companyName": "ZenSpace",
+    "id": 19,
+    "description": "YogaBloom effectively brings the entire world of yoga practice directly to your fingertips, making it accessible anytime, anywhere you are. It is your personal yoga studio that fits in your pocket.\n\nIt features detailed step-by-step video tutorials, professionally guided classes, and a wide array of routines for all experience levels, from absolute beginners to advanced yogis. You can customize your practice to improve flexibility, build strength, and enhance core mindfulness.\n\nYogaBloom makes it easy to practice at your own pace and on your own schedule, providing the structure and guidance needed to support your journey to a more flexible, centered, and balanced life.",
+    "size": 90,
+    "reviews": 320,
+    "ratingAvg": 4.6,
+    "downloads": 14000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 85 },
+      { "name": "5 star", "count": 165 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q3cYXSPk/unnamed.webp",
+    "title": "NutriTrack: Calorie Counter",
+    "companyName": "FitLife",
+    "id": 20,
+    "description": "NutriTrack empowers you to make smarter dietary choices with personalized diet plans and highly accurate nutrition tracking tools. It removes the guesswork from healthy eating, making it simple and sustainable.\n\nUsers can easily log their meals using a barcode scanner or extensive food database, automatically calculate their calorie intake, and accurately track macro and micronutrient goals. The app provides valuable daily insights into your eating habits, helping you identify areas for improvement.\n\nNutriTrack is the essential perfect app for anyone seriously focused on meticulous nutrition tracking, understanding their body's needs, and achieving a sustainable, healthy lifestyle through informed choices.",
+    "size": 75,
+    "reviews": 210,
+    "ratingAvg": 4.4,
+    "downloads": 11000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 32 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 88 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/kVX5yDKb/unnamed.png",
+    "title": "WalletWise: Budget Planner",
+    "companyName": "MoneySafe",
+    "id": 21,
+    "description": "WalletWise is your personal financial control center, expertly designed to keep your finances neatly in check with smart budgeting tools. It provides intuitive expense tracking, allowing you to categorize spending and see exactly where your money goes with insightful charts.\n\nUsers can set and monitor specific savings goals, motivating them toward major milestones like a down payment or a dream vacation. The app delivers actionable insights and spending alerts, helping you identify opportunities to save and make smarter financial decisions.\n\nWith WalletWise, you can take complete control of your money, understand your financial health, and build solid, lasting habits that pave the way for a secure financial future.",
+    "size": 60,
+    "reviews": 190,
+    "ratingAvg": 4.3,
+    "downloads": 9500,
+    "ratings": [
+      { "name": "1 star", "count": 14 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 28 },
+      { "name": "4 star", "count": 55 },
+      { "name": "5 star", "count": 75 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Kj32rPPF/images.png",
+    "title": "SaveSmart: Savings Tracker",
+    "companyName": "FinTechPro",
+    "id": 22,
+    "description": "SaveSmart is a powerful motivator that helps you increase your savings with cutting-edge automated features and robust goal tracking. It's designed to make saving money effortless and rewarding.\n\nYou can easily set clear financial targets for major purchases, vacations, or building an essential emergency fund. The app's intelligent automation moves small amounts of money for you based on rules you set, allowing you to watch your savings grow consistently without thinking about it.\n\nSaveSmart turns the difficult habit of saving into an automated, seamless part of your daily financial life, making your most ambitious financial goals feel finally reachable and achievable.",
+    "size": 50,
+    "reviews": 160,
+    "ratingAvg": 4.5,
+    "downloads": 10000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 60 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/26/48/4926489f-6972-17d0-a906-d1cc7b3e529e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
+    "title": "ShopWave: Smart Shopping",
+    "companyName": "EcomTech",
+    "id": 23,
+    "description": "ShopWave is designed to make your entire online shopping experience effortless and highly efficient by offering personalized product recommendations tailored to your style. It's your smart shopping assistant.\n\nKey tools include an instant, powerful price comparison engine and access to a curated list of exclusive deals and time-sensitive offers. From the latest fashion trends to the newest electronics, you can discover everything you love quickly and save money while doing it.\n\nShopWave consolidates all your favorite stores into one streamlined app, ensuring you always get the best value and a seamless discovery-to-checkout process, transforming how you shop online.",
+    "size": 90,
+    "reviews": 300,
+    "ratingAvg": 4.6,
+    "downloads": 20000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 38 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 142 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VYCf6LKf/images.jpg",
+    "title": "DealMate: Deal Finder",
+    "companyName": "OfferZone",
+    "id": 24,
+    "description": "DealMate is the ultimate resource for instantly finding the very best discounts, offers, and promotions from your favorite and trusted brands. It's your dedicated companion for never paying full price again.\n\nIt allows you to effectively track flash sales, price drops, and receive instant alerts so you never miss a limited-time saving opportunity. The app's primary focus is to help you save real money by encouraging smart shopping decisions and planning ahead for purchases.\n\nDealMate turns the often tedious task of deal-hunting into an effortless, rewarding experience, ensuring you consistently get the most value for every dollar you spend.",
+    "size": 55,
+    "reviews": 140,
+    "ratingAvg": 4.2,
+    "downloads": 8500,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 45 },
+      { "name": "5 star", "count": 38 }
+    ]
+  },
+  {
+    "image": "https://pbs.twimg.com/profile_images/1905608697356693504/nucfsXf4_400x400.jpg",
+    "title": "CryptoFlow: Crypto Tracker",
+    "companyName": "BlockNet",
+    "id": 25,
+    "description": "CryptoFlow is the premier platform designed to keep you consistently ahead in the fast-paced, volatile world of cryptocurrency markets. It provides all the tools you need to invest with confidence and stay informed.\n\nUsers can track accurate, real-time prices from dozens of exchanges, professionally manage their entire digital asset portfolio, and monitor holdings with detailed analytics. It offers crucial, instant alerts on major market trends and price movements, helping you make timely decisions.\n\nCryptoFlow provides a sleek, secure, and highly reliable interface for all your cryptocurrency tracking and investment management needs, making it an essential tool for both novice and experienced investors.",
+    "size": 95,
+    "reviews": 310,
+    "ratingAvg": 4.7,
+    "downloads": 18000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 135 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DPFK4cYj/unnamed.png",
+    "title": "WanderWay: Travel Planner",
+    "companyName": "TravelSoft",
+    "id": 26,
+    "description": "WanderWay is the ultimate travel tool that inspires you to explore the world with confidence and unparalleled insight. It simplifies complex travel planning into an enjoyable and exciting process from start to finish.\n\nThe app offers detailed travel guides for thousands of destinations, comprehensive booking options for flights and hotels, and a personalized itinerary creator that adapts to your unique travel style. From discovering hidden local gems to navigating popular attractions, WanderWay covers every aspect of your journey.\n\nWanderWay acts as your essential passport to seamless, memorable adventures, transforming the entire travel experience by making the journey as enjoyable as the destination itself.",
+    "size": 120,
+    "reviews": 420,
+    "ratingAvg": 4.8,
+    "downloads": 25000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 230 }
+    ]
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BN2NjNzEzNmYtZDYxMS00ZGRjLTg4ZjItNDVhZGZhNmI1YjM0XkEyXkFqcGc@._V1_.jpg",
+    "title": "FoodQuest: Food Finder",
+    "companyName": "DineHub",
+    "id": 27,
+    "description": "FoodQuest is the perfect tool for food lovers, helping you discover exciting restaurants, street food vendors, and new recipes around the globe. It is your ultimate guide to the world's best culinary experiences.\n\nThe community-driven platform features authentic user reviews, reliable ratings, and integrated maps for easy navigation and discovery. You can search for local hidden culinary gems or the trendiest global dining spots with highly specific filters and personalized suggestions.\n\nFoodQuest is the essential app for anyone who is passionate about food and eager to try something delicious and new every single day, turning every meal into an adventure.",
+    "size": 80,
+    "reviews": 250,
+    "ratingAvg": 4.5,
+    "downloads": 14000,
+    "ratings": [
+      { "name": "1 star", "count": 14 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 32 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 114 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/z9cLXXS/unnamed.webp",
+    "title": "Mapify: Maps & Navigation",
+    "companyName": "GeoTech",
+    "id": 28,
+    "description": "Mapify is a robust and modern navigation application, engineered for unparalleled reliability across all your travels, from daily commutes to international adventures. It serves as a comprehensive guide that instills confidence and eliminates the anxiety of navigating unfamiliar territories.\n\nThe application is packed with essential features designed for real-world scenarios. Its powerful offline maps guarantee uninterrupted guidance even without an internet connection, while real-time traffic updates suggest optimal routes to help you avoid congestion and save valuable time.\n\nWith additional features like reliable location sharing and support for all modes of transport, Mapify provides a complete and reassuring navigation experience. It is the indispensable guide for all your movement, ensuring you never get lost again.",
+    "size": 100,
+    "reviews": 380,
+    "ratingAvg": 4.6,
+    "downloads": 22000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 28 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 180 }
+    ]
+  }
+]
